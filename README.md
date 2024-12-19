@@ -4,7 +4,7 @@ Hi! I'm @miglgvt, a passionate bioinformatics student working at the intersectio
 
 ## 🧪 About Me
 
-I'm a Bioinformatics and Systems Biology MSc student @DTU, and a Biomedical Science graduate from UoM. I'm fueled by curiosity, a love for problem-solving, and a relentless pursuit of knowledge. My background before getting into bioinformatics work is mainly on immunology and cancer biology, with my final year project focusing on Prostate Cancer.
+I'm a Bioinformatics and Systems Biology MSc student @DTU, and a Biomedical Science graduate from UoM. My background before getting into bioinformatics work is mainly on immunology and cancer biology, with my final year project focusing on Prostate Cancer.
 
 ## 🚀 My Goals
 
@@ -17,17 +17,15 @@ I'm a Bioinformatics and Systems Biology MSc student @DTU, and a Biomedical Scie
 
 ## 💻 Tech Stack
 
-- **Languages:** Python and R, tidyverse and base, are my go-to languages, but I also dabble in SQL, Matlab, HTML and CSS, and bash/zsh. 
+- **Languages:** Python and R, tidyverse and base, bash, and SQL are my go-to languages, but I also dabble in Matlab, HTML and CSS. 
 
 - **Tools & Libraries:** I'm experienced in popular bioinformatics tools like BLAST, DESeq2, PyMol, COBRA toolbox; and in commmon Python libraries such as PyTorch, Numpy, Sklearn. Within R I have experience with the whole Tidyverse and to a smaller degree Shiny apps. I also have limited experience with Docker and KNIME.
   
 - **Methods:** I am working on developing my knowledge of machine learning methods, having worked with basic regression and classification models, and ANN.
   
-- **Version Control:** Git is my trusted companion for tracking changes and collaborating on projects.
-
 ## 📚 Learning Path
 
-- **Courses:** I've taken courses in NGS, Machine Learning Algorithms, Statistical Genetics, Systems Biology, Immunological Bioinformatics, and Network Analysis. I will be taking courses on Bayesian machine-learning approaches, Single-cell omics, and High Performance computing in the coming months.
+- **Courses:** I've taken courses in NGS, Machine Learning Algorithms, Statistical Genetics, Systems Biology, Immunological Bioinformatics, and Network Analysis.
 
 - **Projects:** Check out my GitHub repositories for a glimpse of my hands-on projects (public projects coming soon).
 
